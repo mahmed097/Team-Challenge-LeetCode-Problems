@@ -20,7 +20,7 @@ class MissingNumber {
 		for (int j = 0; j < nums.length; j++) {
 
 			numsMiss += nums[j];
-			// summing up nums and storing in numsMiss
+			// numsMiss will contain the sum of all the values in nums[j]
 
 		}
 
